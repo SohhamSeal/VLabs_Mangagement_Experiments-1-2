@@ -28,8 +28,6 @@ The main screen of the simulator consists of two blocks placed horizontally in a
 -   List the names of commodities that do not follow the law of supply.
 
 
-<br>
-
 #### 2.3 Set the Pathway Activities:
 
 1.	The set-up consists of two blocks placed sequentially in a horizontal manner. The left part consists of all the graphic changes while the right part describes those changes.
@@ -78,14 +76,13 @@ The market demand schedule creation allows pitfalls. It provides the user two ch
 
 
 #### 2.6 Conclusion:
+
 The approximate time required to understand the procedure and to start performing the experiment would take about 10 mins. To understand the questions, calculating the data and entering them into their respective input boxes will take approximately another 6 min. To answer the assessment questions, it will take around 5-10 mins. Therefore, in total, to understand and complete the experiment, it will take around 21-26 min.
 
 ## 2.7 Equations/formulas:
--
+
 The relation between the price of a commodity and the quantity supplied is a linear relation. Therefore, equations of the form **QSX = –a + bPX** are used to describe the individual’s supply.
 [where, QSX stands for the quantity supplied, PX stands for the price of the commodity]
-
-
 
 
 
