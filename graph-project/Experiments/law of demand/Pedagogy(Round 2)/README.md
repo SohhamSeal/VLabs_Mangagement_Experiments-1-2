@@ -27,7 +27,6 @@ The main screen of the simulator consists of two blocks placed horizontally in a
 -   Calculate the values from the data provided and fill in the market demand table.
 -   List the names of commodities that do not follow the law of demand.
 
-<br>
 
 #### 2.3 Set the Pathway Activities:
 
@@ -76,6 +75,7 @@ b. falls <br>
 c. remains unchanged<br>
 **d. all of the above are possible** <br><br>
 
+
 ##### 2.5 Allow pitfalls: Yes
 
 The market demand schedule creation allows pitfalls. It provides the user two chances to enter the data into the table correctly after which the correct values are displayed by the simulator itself. Hints are also allowed to be viewed at any time.
@@ -84,10 +84,10 @@ The market demand schedule creation allows pitfalls. It provides the user two ch
 #### 2.6 Conclusion:
 The approximate time required to understand the procedure and to start performing the experiment would take about 10 mins. To understand the questions, calculating the data and entering them into their respective input boxes will take approximately another 12 min. To answer the assessment questions, it will take around 5-10 mins. Therefore, in total, to understand and complete the experiment, it will take around 27-32 min.
 
+
 ## 2.7 Equations/formulas:
 The relation between the price of a commodity and the quantity in demand is a linear relation. Therefore, equations of the form **QDX = a – bPX** are used to describe the individual’s demand.<br>
 [where, QDX stands for the quantity in demand, PX stands for the price of the commodity]
-
 
 
 
