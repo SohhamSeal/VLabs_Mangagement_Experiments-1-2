@@ -25,7 +25,7 @@ Where:
 
 <p> The graphical representation of the relationship between the price of a good or service and the quantity demanded for a given period of time is referred to as the Demand Curve. In a typical representation, the price will appear on the left vertical axis, the quantity demanded on the horizontal axis.</p>
 
-**Below is an examle of a demand curve:**<br>
+**Below is an example of a demand curve:**<br>
 <img src="assets/images/DemandCurveEG.png"><br>
 
 <br>
