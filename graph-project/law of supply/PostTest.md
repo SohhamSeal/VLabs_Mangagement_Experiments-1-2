@@ -23,8 +23,8 @@
 (d) larger quantity of the commodity at a decreased price. <br>
 <br>
 5. Which of the following will NOT shift the market supply curve of good X? <br>
-a) A change in the cost of inputs used to produce good X. <br>
-b) A change in the technology used to produce X. <br>
-c) A change number of sellers of good X. <br>
-**d) A change in the price of good X.** <br>
+(a) A change in the cost of inputs used to produce good X. <br>
+(b) A change in the technology used to produce X. <br>
+(c) A change number of sellers of good X. <br>
+**(d) A change in the price of good X.** <br>
 <br>
