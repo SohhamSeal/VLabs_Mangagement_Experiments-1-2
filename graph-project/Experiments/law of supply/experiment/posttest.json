@@ -1,0 +1,52 @@
+[{
+    "question": "Supply refers to the quantity supplied at a particular price for a particular period of time",
+    "answers": {
+    "a": "true",
+    "b": "false"
+    },
+    "correctAnswer": "a"
+},
+
+{
+    "question": "Increase or decrease in supply means",
+    "answers": {
+    "a": "change in supply due to change in factors other than its own price",
+    "b": "shift in supply curve",
+    "c": "movement along same supply curve",
+    "d": "(d) both (a) and (b)"
+    },
+    "correctAnswer": "d"
+},
+
+{
+    "question": "A producer’s positively sloped supply curve for a commodity represents",
+    "answers": {
+    "a": "a maximum boundary of the producer’s intentions",
+    "b": "a minimum boundary of the producer’s intentions",
+    "c": "in one sense a maximum and in another sense a minimum boundary of the producer’s intentions",
+    "d": "none of the above"
+    },
+    "correctAnswer": "c"
+},
+
+{
+    "question": "Expansion in supply means that the producers are willing to supply a",
+    "answers": {
+    "a": "larger quantity of the commodity at an increased price",
+    "b": "larger quantity of the commodity due to increased taxation on that commodity",
+    "c": "larger quantity of the commodity at the same price",
+    "d": "larger quantity of the commodity at a decreased price"
+    },
+    "correctAnswer": "a"
+},
+
+{
+    "question": "Which of the following will NOT shift the market supply curve of good X?",
+    "answers": {
+    "a": "A change in the cost of inputs used to produce good X",
+    "b": "A change in the technology used to produce X",
+    "c": "A change number of sellers of good X",
+    "d": "A change in the price of good X"
+    },
+    "correctAnswer": "d"
+}]

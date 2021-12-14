@@ -1,0 +1,42 @@
+[{
+    "question": "The nature of the supply curve for normal goods is",
+    "answers": {
+    "a": "horizontal",
+    "b": "vertical",
+    "c": "downward sloping",
+    "d": "upward sloping"
+    },
+    "correctAnswer": "d"
+},
+
+{
+    "question": "The supply of a commodity refers to",
+    "answers": {
+    "a": "total stock in the warehouse",
+    "b": "stock available for use",
+    "c": "actual production of the commodity",
+    "d": "Quantity of the good offered for sale at a particular price per unit of time"
+    },
+    "correctAnswer": "d"
+},
+
+{
+    "question": "In drawing a farmer’s supply curve for a commodity, all but which one of the following are kept constant?",
+    "answers": {
+    "a": "technology",
+    "b": "the price of inputs",
+    "c": "features of nature such as climate and weather conditions",
+    "d": "the price of the commodity under consideration"
+    },
+    "correctAnswer": "d"
+},
+{
+    "question": "If the number of customers in the market increases suddenly, the supply will",
+    "answers": {
+    "a": "increase",
+    "b": "decrease",
+    "c": "not affected",
+    "d": "will depend on the number of customers"
+    },
+    "correctAnswer": "c"
+}]
