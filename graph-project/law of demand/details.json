@@ -1,7 +1,7 @@
 {
    "details": [
        {
-			"Experiment": "Break-even Analysis",
+			"Experiment": "Law of Demand",
 			"Lab": "Management Lab",
 			"Discipline": "Management",
 			"Technology": "HTML, Javascript, CSS, JQuery"
@@ -18,13 +18,7 @@
 
    "contributer": [
        {
-			"Contributer": "Pranav Agarwal",
-      "Institute": "National Institute of Technology Karnataka, Surathkal",
-      "InstituteAcronym": "NITK"
-       },
-
-       {
-			"Contributer": "Abhiraj Mengade",
+			"Contributer": "Sohham Seal",
       "Institute": "National Institute of Technology Karnataka, Surathkal",
       "InstituteAcronym": "NITK"
        },
