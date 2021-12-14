@@ -86,7 +86,6 @@ The market demand schedule creation allows pitfalls. It provides the user two ch
 The approximate time required to understand the procedure and to start performing the experiment would take about 10 mins. To understand the questions, calculating the data and entering them into their respective input boxes will take approximately another 12 min. To answer the assessment questions, it will take around 5-10 mins. Therefore, in total, to understand and complete the experiment, it will take around 27-32 min.
 
 ## 2.7 Equations/formulas:
--
 The relation between the price of a commodity and the quantity in demand is a linear relation. Therefore, equations of the form **QDX = a – bPX** are used to describe the individual’s demand.<br>
 [where, QDX stands for the quantity in demand, PX stands for the price of the commodity]
 
@@ -94,10 +93,10 @@ The relation between the price of a commodity and the quantity in demand is a li
 
 
 ### 3. Flowchart :
-<img src="/Flowchart/flowchart.png">
+<img src="Flowchart/flowchart.png">
 
 ### 4. Mindmap:
-<img src="/Mindmap/mindmap.png">
+<img src="Mindmap/mindmap.png">
 
 ### 5. Storyboard :
-<img src="/Storyboard/storyboard.gif">
+<img src="Storyboard/storyboard.gif">
