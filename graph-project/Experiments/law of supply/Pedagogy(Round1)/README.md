@@ -28,13 +28,13 @@
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| Define what individual’s demand is for a particular commodity. <br> | Recall | Define
-2.| Demonstrate how various quantity at a particular price value is used to create the demand curve.<br> | Understand | Demonstrate
-3.| Choose the structure of demand curve to proceed with.<br> | Apply | Choose
-4.| Interpret the demand curve by reading the curve both horizontally as well as vertically.<br> | Understand | Interpret
-5.| Select the type of shift of the demand curve to know the reasons behind it.<br> | Apply | Select
-6.| Define what market’s demand is for a particular commodity.<br> | Recall | Define
-7.| Calculate the values from the data provided and fill in the market demand table.<br> | Apply | Calculate
-6.| List the names of commodities that do not follow the law of demand.<br> | Remember | List
+2.| Demonstrate how various quantity at a particular price value is used to create the supply curve.<br> | Understand | Demonstrate
+3.| Choose the structure of supply curve to proceed with.<br> | Apply | Choose
+4.| Interpret the supply curve by reading the curve both horizontally as well as vertically.<br> | Understand | Interpret
+5.| Select the type of shift of the supply curve to know the reasons behind it.<br> | Apply | Select
+6.| Define what market’s supply is for a particular commodity.<br> | Recall | Define
+7.| Calculate the values from the data provided and fill in the market supply table.<br> | Apply | Calculate
+6.| List the names of commodities that do not follow the law of supply.<br> | Remember | List
 
 
 
@@ -52,7 +52,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <u> <b>Description:</b></u> 
 <br>
--   A detailed explanation of the law of demand is provided along with references to study materials.  
+-   A detailed explanation of the law of supply is provided along with references to study materials.  
 -   To understand the simulation flow, the reader can navigate to the given buttons and hover the cursor on them to find detailed instructions in a separate text box.
 -   A step-by-step procedure is implemented to make it easier for the learner to understand about the graph and the simulation process.
 -   Questions will be displayed during and after the simulation to make the assessment clear and to help the student gain independent learning. 
@@ -73,8 +73,8 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment questions aligned to the task
 :--|:--|:--|:--
-1.| State the reason behind the shift in a demand curve. |Click on the shift button to shift it in any one direction and understand the meaning of it.| Q.1<br> 
-2.| State how the income is a factor in obtaining the demand curve of a commodity.| Click on the shift button to shift it in any one direction and understand the factors that affect it. | Q.3<br>
+1.| State the reason behind the shift in a supply curve. |Click on the shift button to shift it in any one direction and understand the meaning of it.| Q.1<br> 
+2.| State how the income is a factor in obtaining the supply curve of a commodity.| Click on the shift button to shift it in any one direction and understand the factors that affect it. | Q.3<br>
 
 
 <br/>
