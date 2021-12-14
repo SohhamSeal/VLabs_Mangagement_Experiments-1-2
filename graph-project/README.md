@@ -1,4 +1,4 @@
-# graphic-project
+# Experiments
  
 The project is a combination of three experiments:
 1. Law of Demand
