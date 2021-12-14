@@ -9,7 +9,7 @@
 3. Read and understand the labels required for graph axes <br>
 <img src="assets/images/3.png"><br>
 
-4. Read and understand the equation demand equation and how a point in plotted on the graph<br>
+4. Read and understand the demand equation and how a point in plotted on the graph<br>
 <img src="assets/images/4.png"><br>
 
 5. Understand how the demand changes when a different price is considered<br>
@@ -21,13 +21,13 @@
 7. Read and understand the relation between price and quantity demanded from the graph<br>
 <img src="assets/images/7.png"><br>
 
-8. Click on the "stright" and "curved" buttons to inspect the different types of graph structures<br>
+8. Click on the "straight" and "curved" buttons to inspect the different types of graph structures<br>
 <img src="assets/images/8.png"><br>
 
-9. Demand curve when it is a stright line<br>
+9. Demand curve when it is a straight line<br>
 <img src="assets/images/9.png"><br>
 
-10. Demand curve whe it is a non-linear curve <br>
+10. Demand curve when it is a non-linear curve <br>
 <img src="assets/images/10.png"><br>
 
 11. Understand how to read the curve horizontally <br>
