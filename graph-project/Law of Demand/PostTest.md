@@ -1,8 +1,7 @@
-# Post-Test
-<br>
+# Post-Test  
 1. The price of 1 kg apples, which was $5 last month, is $6 today. The demand curve for apples must have shifted rightward between last month and today. State True or False <br>
 **a. true,**<br>
-b. false.<br>
+b. false.<br> 
 <br>
 2. The individual’s demand curve for a commodity represents<br>
 **a. a maximum boundary of the individual’s intentions,**<br>
