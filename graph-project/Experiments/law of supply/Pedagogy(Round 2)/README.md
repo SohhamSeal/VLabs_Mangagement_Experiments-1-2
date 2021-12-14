@@ -87,10 +87,10 @@ The relation between the price of a commodity and the quantity supplied is a lin
 
 
 ### 3. Flowchart :
-<img src="/Flowchart/flowchart.png">
+<img src="Flowchart/flowchart.png">
 
 ### 4. Mindmap:
-<img src="/Mindmap/mindmap.png">
+<img src="Mindmap/mindmap.png">
 
 ### 5. Storyboard :
-<img src="/Storyboard/storyboard.gif">
+<img src="Storyboard/storyboard.gif">
