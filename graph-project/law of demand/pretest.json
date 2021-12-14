@@ -1,0 +1,42 @@
+[{
+    "question": "The nature of the demand curve is",
+    "answers": {
+    "a": "horizontal",
+    "b": "vertical",
+    "c": "downward sloping",
+    "d": "upward sloping"
+    },
+    "correctAnswer": "c"
+},
+
+{
+    "question": "Demand for a commodity refers",
+    "answers": {
+    "a": "amount of the commodity demanded at a particular price and at a particular time",
+    "b": "quantity demanded of that commodity",
+    "c": "desire for the commodity",
+    "d": "need for the commodity"
+    },
+    "correctAnswer": "a"
+},
+
+{
+    "question": "In drawing an individual’s demand curve for a commodity, all but which one of the following are kept constant?",
+    "answers": {
+    "a": "The individual's money income",
+    "b": "the price of other commodities",
+    "c": "the price of the commodity under consideration",
+    "d": "the tastes of the individual"
+    },
+    "correctAnswer": "c"
+},
+{
+    "question": "A fall in the price of a commodity, holding everything else constant, results in and is referred to as",
+    "answers": {
+    "a": "an increase in demand",
+    "b": "a decrease in demand",
+    "c": "an increase in the quantity demanded",
+    "d": "a decrease in the quantity demanded"
+    },
+    "correctAnswer": "c"
+}]
