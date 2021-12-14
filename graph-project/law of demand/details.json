@@ -1,0 +1,32 @@
+{
+   "details": [
+       {
+			"Experiment": "Break-even Analysis",
+			"Lab": "Management Lab",
+			"Discipline": "Management",
+			"Technology": "HTML, Javascript, CSS, JQuery"
+       }
+   ],
+
+   "developer": [
+       {
+      "Developer": "Dr. Sheena Suresh",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       }
+   ],
+
+   "contributer": [
+       {
+			"Contributer": "Pranav Agarwal",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+
+       {
+			"Contributer": "Abhiraj Mengade",
+      "Institute": "National Institute of Technology Karnataka, Surathkal",
+      "InstituteAcronym": "NITK"
+       },
+   ]
+}
