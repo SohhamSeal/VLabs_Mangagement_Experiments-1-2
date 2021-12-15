@@ -1,6 +1,6 @@
 ## Storyboard (Round 2)
 
-####Experiment : Law of Demand
+Experiment : Law of Demand
 
 ### 1. Story Outline:
 
