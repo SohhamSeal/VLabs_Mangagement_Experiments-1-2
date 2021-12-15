@@ -18,8 +18,10 @@
     <td>Developer : <br> Dr. Sheena Reddy | NITK</br></br>
     Contributors :
     <ul style="list-style-type: none;">
-    <li>Sohham Seal | NITK</li>
+    <li>Aishwarya Shetty | NITK</li>
+    <li>Akshaya | NITK</li>
     <li>Komal Anand | NITK</li>
+    <li>Sohham Seal | NITK</li>
      </ul></td>
   </tr>
 </table>
