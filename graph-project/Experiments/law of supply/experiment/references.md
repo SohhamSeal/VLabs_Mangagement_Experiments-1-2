@@ -1,7 +1,8 @@
 ### Lagu paTa:
 
 #### Simulation demo:
-
+<img src="../Pedagogy(Round 2)/Storyboard/storyboard.gif">
+<br>
 <table style="text-align:justify;margin-top: 15px;">
   <tr style="background-color: white">
     <th>References</th>
