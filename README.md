@@ -1,4 +1,4 @@
-# VLabs_Exp_1_2
+# VLabs: Management Labs - First two experiments
 Law of Demand and Supply, a graphical approach...
 
 ## Simulation Preview
