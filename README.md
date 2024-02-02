@@ -1,5 +1,5 @@
 # VLabs_Exp_1_2
-Law of Demand and supply, a graphical approach...
+Law of Demand and Supply, a graphical approach...
 
 ## Simulation Preview
 1. Law of Demand: https://solve-nitk.github.io/vlab-management-lab/exp-law-of-demand/simulation.html
